@@ -1,2 +1,1 @@
-# test-repo
-A repository for some testing purposes
+A repository for some testing purposes - it works!
